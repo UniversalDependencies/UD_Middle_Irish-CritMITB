@@ -1,4 +1,4 @@
-# id = 1
+# sent_id = 1
 # text = Boí rí amrae for Laignib, Mac Dathó a ainm.
 1	Boí	attá	VERB	_	_	_	_	_	_
 2	rí	rí	NOUN	_	_	1	nsubj	_	_
@@ -12,14 +12,14 @@
 10	ainm	ainm	NOUN	_	_	7	nsubj	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	1	punct	_	_
 
-# id = 2
+# sent_id = 2
 # text = Boí cú occo.
 1	Boí	attá	VERB	_	_	_	_	_	_
 2	cú	cú	NOUN	_	_	1	nsubj	_	_
 3	occo	oc	ADP	_	_	1	obl:prep	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	1	punct	_	_
 
-# id = 3
+# sent_id = 3
 # text = Im-díched in cú Laigniu huili.
 1	Im-díched	imm-dích	VERB	_	_	_	_	_	_
 2	in	in	DET	_	_	3	det	_	_
@@ -28,7 +28,7 @@
 5	huili	uile	DET	_	_	4	det	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	1	punct	_	_
 
-# id = 4
+# sent_id = 4
 # text = Ailbe ainm in chon, ocus ba lán Hériu dia airdircus in chon.
 1	Ailbe	ailbe	PROPN	_	_	_	_	_	_
 2	ainm	ainm	NOUN	_	_	1	nsubj	_	_
@@ -45,7 +45,7 @@
 13	chon	cú	NOUN	_	_	11	nmod	_	SpaceAfter=No
 14	.	.	PUNCT	_	_	1	punct	_	_
 
-# id = 5
+# sent_id = 5
 # text = Do-eth ó Ailill ocus ó Meidb do chungid in chon.
 1	Do-eth	do-icc	VERB	_	_	_	_	_	_
 2	ó	ó	ADP	_	_	3	case	_	_
@@ -59,7 +59,7 @@
 10	chon	cú	NOUN	_	_	8	nmod	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	1	punct	_	_
 
-# id = 6
+# sent_id = 6
 # text = Immalle dano táncatar ocus techta Ulad ocus Conchobair do chungid in chon chétna.
 1	Immalle	immallé	ADV	_	_	3	advmod	_	_
 2	dano	danó	ADV	_	_	3	advmod	_	_
@@ -76,7 +76,7 @@
 13	chétna	cétnae	ADJ	_	_	12	amod	_	SpaceAfter=No
 14	.	.	PUNCT	_	_	3	punct	_	_
 
-# id = 7
+# sent_id = 7
 # text = Ro-ferad fáilte friu huili, ocus ructha cuci-sium isin mbruidin.
 1	Ro-ferad	feraid	VERB	_	_	_	_	_	_
 2	fáilte	fáilte	NOUN	_	_	1	nsubj:pass	_	_
@@ -94,7 +94,7 @@
 12	mbruidin	bruiden	NOUN	_	_	_	_	_	SpaceAfter=No
 13	.	.	PUNCT	_	_	1	punct	_	_
 
-# id = 8
+# sent_id = 8
 # text = Is sí sin in chóiced bruden ro-boí i nHérinn isind aimsir sin, ocus bruden Da-Derg i crích Cúalann ocus bruden Forgaill Manaich ocus bruden Meic Da-Réo i mBréfni ocus bruden Da-Choca i níarthur Midi.
 1	Is	is	AUX	_	_	6	cop	_	_
 2	sí	sí	PRON	_	_	6	nsubj	_	_
