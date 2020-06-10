@@ -19,13 +19,13 @@ From the CELT corpus ([https://celt.ucc.ie/](https://celt.ucc.ie/)).
 
 # Changelog
 
-* 2020-05-15 v2.6
+* 2020-11-15 v2.7
   * Initial release in Universal Dependencies.
 
 
 <pre>
 === Machine-readable metadata (DO NOT REMOVE!) ================================
-Data available since: UD v2.6
+Data available since: UD v2.7
 License: CC BY-SA 4.0
 Includes text: yes
 Genre: fiction
