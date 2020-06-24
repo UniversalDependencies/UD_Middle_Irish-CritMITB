@@ -1,31 +1,31 @@
 # sent_id = 1
 # text = Boí rí amrae for Laignib, Mac Dathó a ainm.
-1	Boí	_	_	_	_	_	_	_	_
-2	rí	_	NOUN	_	_	_	_	_	_
-3	amrae	_	ADJ	_	_	_	_	_	_
-4	for	_	ADP	_	_	_	_	_	_
-5	Laignib	_	PROPN	_	_	_	_	_	SpaceAfter=No
+1	Boí	attá	VERB	_	_	_	_	_	_
+2	rí	rí	NOUN	_	_	_	_	_	_
+3	amrae	amrae	ADJ	_	_	_	_	_	_
+4	for	for	ADP	_	_	_	_	_	_
+5	Laignib	láigen	PROPN	_	_	_	_	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	_	_	_	_
 7	Mac	_	PROPN	_	_	_	_	_	_
 8	Dathó	_	PROPN	_	_	_	_	_	_
-9	a	_	_	_	_	_	_	_	_
+9	a	a	_	_	_	_	_	_	_
 10	ainm	ainmm	NOUN	_	_	_	_	_	_
 11	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = 2
 # text = Boí cú occo.
-1	Boí	_	_	_	_	_	_	_	_
+1	Boí	attá	VERB	_	_	_	_	_	_
 2	cú	cú	NOUN	_	_	_	_	_	_
-3	occo	_	ADP	_	_	_	_	_	SpaceAfter=No
+3	occo	oc	ADP	_	_	_	_	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = 3
 # text = Im-díched in cú Laigniu huili.
-1	Im-díched	_	VERB	_	_	_	_	_	_
+1	Im-díched	imm-dích	VERB	_	_	_	_	_	_
 2	in	in	DET	_	_	_	_	_	_
 3	cú	cú	NOUN	_	_	_	_	_	_
-4	Laigniu	_	PROPN	_	_	_	_	_	_
-5	huili	_	_	_	_	_	_	_	SpaceAfter=No
+4	Laigniu	láigen	PROPN	_	_	_	_	_	_
+5	huili	uile	_	_	_	_	_	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = 4
@@ -48,7 +48,7 @@
 
 # sent_id = 5
 # text = Do- eth ó Ailill ocus ó Meidb do chungid in chon.
-1	Do-eth	_	VERB	_	_	_	_	_	Typo=Yes
+1	Do- eth	_	VERB	_	_	_	_	_	Typo=Yes
 2	ó	ó	ADP	_	_	_	_	_	_
 3	Ailill	_	PROPN	_	_	_	_	_	_
 4	ocus	ocus	CCONJ	_	_	_	_	_	_
@@ -100,7 +100,7 @@
 4	in	in	DET	_	_	_	_	_	_
 5	chóiced	_	NUM	_	_	_	_	_	_
 6	bruden	bruiden	NOUN	_	_	_	_	_	_
-7	ro-boí	_	_	_	_	_	_	_	Typo=Yes
+7	ro- boí	_	_	_	_	_	_	_	Typo=Yes
 8	i	i	ADP	_	_	_	_	_	_
 9	nHérinn	_	PROPN	_	_	_	_	_	_
 10	isind	i	ADP	_	_	_	_	_	_
@@ -144,8 +144,7 @@
 3	isin	i	ADP	_	_	_	_	_	_
 4	bruidin	bruiden	NOUN	_	_	_	_	_	_
 5	ocus	ocus	CCONJ	_	_	_	_	_	_
-6-7	sechtsligeda	_	_	_	_	_	_	_	_
-6	secht	_	NUM	_	_	_	_	_	_
+6	secht	_	NUM	_	_	_	_	_	SpaceAfter=No
 7	sligeda	_	NOUN	_	_	_	_	_	_
 8	trethe	_	ADP	_	_	_	_	_	_
 9	ocus	ocus	CCONJ	_	_	_	_	_	_
@@ -176,7 +175,7 @@
 5	sligi	_	NOUN	_	_	_	_	_	_
 6	do-bered	_	VERB	_	_	_	_	_	_
 7	in	in	DET	_	_	_	_	_	_
-8	n-aél	_	NOUN	_	_	_	_	_	Typo=Yes
+8	n- aél	_	NOUN	_	_	_	_	_	Typo=Yes
 9	isin	i	ADP	_	_	_	_	_	_
 10	coiri	_	NOUN	_	_	_	_	_	SpaceAfter=No
 11	,	,	PUNCT	_	_	_	_	_	_
@@ -222,8 +221,8 @@
 4	techta	_	NOUN	_	_	_	_	_	_
 5	ina	_	_	_	_	_	_	_	_
 6	imdai	_	NOUN	_	_	_	_	_	_
-7	cuci	_	_	_	_	_	_	_	Typo=Yes
-8	-sium	_	_	_	_	_	_	_	Typo=Yes
+7	cuci	_	_	_	_	_	_	_	SpaceAfter=No
+8	- sium	_	_	_	_	_	_	_	Typo=Yes
 9	do	do	ADP	_	_	_	_	_	_
 10	airiuc	_	NOUN	_	_	_	_	_	_
 11	thuile	_	NOUN	_	_	_	_	_	_
@@ -432,7 +431,7 @@
 16	co	co	ADP	_	_	_	_	_	SpaceAfter=No
 17	-	-	PUNCT	_	_	_	_	_	SpaceAfter=No
 18	a	a	_	_	_	_	_	_	_
-19	thech	_	_	_	_	_	_	_	SpaceAfter=No
+19	thech	tech	NOUN	_	_	_	_	_	SpaceAfter=No
 20	,	,	PUNCT	_	_	_	_	_	SpaceAfter=No
 21	’	’	PUNCT	_	_	_	_	_	_
 22	‘	‘	PUNCT	_	_	_	_	_	SpaceAfter=No
@@ -453,7 +452,6 @@
 37	’	’	PUNCT	_	_	_	_	_	_
 
 # sent_id = 21
-# text = ‘As-{s}oí, do-soí úaim do fraig’ ‘in ferg féne co londgail;’ ‘a ben trebar, dos-beir mod’ ‘bith dia céiliu cen chotlud.’
 # text = ‘As-{s}oí, do-soí úaim do fraig’ ‘in ferg féne co londgail;’ ‘a ben trebar, dos-beir mod’ ‘bith dia céiliu cen chotlud.’
 1	‘	_	PUNCT	_	_	_	_	_	SpaceAfter=No
 2	As-{s}oí	_	VERB	_	_	_	_	_	SpaceAfter=No
@@ -519,7 +517,7 @@
 25	ní	_	PART	_	_	_	_	_	_
 26	maith	_	ADV	_	_	_	_	_	_
 27	con-celar	_	VERB	_	_	_	_	_	SpaceAfter=No
-28	,	,	PUNCT	_	_	_	_	_	SpaceAfter=No|Typo=Yes
+28	, 	,	PUNCT	_	_	_	_	_	Typo=Yes
 29	’	’	PUNCT	_	_	_	_	_	_
 30	‘	‘	PUNCT	_	_	_	_	_	SpaceAfter=No
 31	maín	_	NOUN	_	_	_	_	_	_
@@ -753,7 +751,7 @@
 4	súas	_	_	_	_	_	_	_	_
 5	ocus	ocus	CCONJ	_	_	_	_	_	_
 6	no	no	PART	_	_	_	_	_	SpaceAfter=No
-6	-	-	PUNCT	_	_	_	_	_	SpaceAfter=No|Typo=Yes
+6	- 	-	PUNCT	_	_	_	_	_	Typo=Yes
 7	mbertaigedar	_	VERB	_	_	_	_	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	_	_	_	_
 
@@ -770,7 +768,7 @@
 9	ocus	_	_	_	_	_	_	_	_
 10	dona	_	_	_	_	_	_	_	_
 11	hóegedaib	_	_	_	_	_	_	_	_
-12	dod{o}n-áncatar	_	_	_	_	_	_	_	SpaceAfter=No|Typo=Yes
+12	dod{o}n- áncatar	_	_	_	_	_	_	_	SpaceAfter=No|Typo=Yes
 13	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No
 14	’	’	PUNCT	_	_	_	_	_	_
 
@@ -886,7 +884,7 @@
 # sent_id = 36
 # text = ‘Do- ratus-{s}a trá’ olse ‘asmo chuntabairt in coin do Chon- chobur.
 1	‘	‘	PUNCT	_	_	_	_	_	SpaceAfter=No
-2	Do-ratus	_	_	_	_	_	_	_	SpaceAfter=No|Typo=Yes
+2	Do- ratus	_	_	_	_	_	_	_	SpaceAfter=No|Typo=Yes
 3	-{s}a	_	_	_	_	_	_	_	_
 4	trá	_	_	_	_	_	_	_	_
 5	’	’	PUNCT	_	_	_	_	_	_
@@ -898,7 +896,7 @@
 11	in	in	DET	_	_	_	_	_	_
 12	coin	cú	NOUN	_	_	_	_	_	_
 13	do	do	ADP	_	_	_	_	_	_
-14	Chonchobur	_	PROPN	_	_	_	_	_	SpaceAfter=No|Typo=Yes
+14	Chon- chobur	_	PROPN	_	_	_	_	_	SpaceAfter=No
 15	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = 37
@@ -1080,7 +1078,7 @@ Lotar íarum uili isin mbruidin, leth in tige dano la Connachta ocus in leth ail
 6	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = 49
-Trí chét bliadan ría ngein Chríst ro-boí in cocad etorro.
+# text = Trí chét bliadan ría ngein Chríst ro-boí in cocad etorro.
 1	Trí	_	NUM	_	_	_	_	_	_
 2	chét	_	NUM	_	_	_	_	_	_
 3	bliadan	_	NOUN	_	_	_	_	_	_
@@ -1105,7 +1103,7 @@ Trí chét bliadan ría ngein Chríst ro-boí in cocad etorro.
 8	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = 51
-Trí fichit gamnach oca bíathad side co cenn secht mbliadan.
+# text = Trí fichit gamnach oca bíathad side co cenn secht mbliadan.
 1	Trí	_	NUM	_	_	_	_	_	_
 2	fichit	_	NUM	_	_	_	_	_	_
 3	gamnach	gamnach	NOUN	_	_	_	_	_	_
@@ -1120,7 +1118,7 @@ Trí fichit gamnach oca bíathad side co cenn secht mbliadan.
 12	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = 52
-Tri neim immurgu no-bíata co-ralta ár fer n-Érenn impe.
+# text = Tri neim immurgu no-bíata co-ralta ár fer n-Érenn impe.
 1	Tri	_	_	_	_	_	_	_	_
 2	neim	_	_	_	_	_	_	_	_
 3	immurgu	_	_	_	_	_	_	_	_
@@ -1137,7 +1135,7 @@ Tri neim immurgu no-bíata co-ralta ár fer n-Érenn impe.
 14	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = 53
-Tucad dóib íarum in mucc & cethorcha dam dia tarsnu cenmothá a mbiad archenae.
+# text = Tucad dóib íarum in mucc & cethorcha dam dia tarsnu cenmothá a mbiad archenae.
 1	Tucad	do-beir	VERB	_	_	_	_	_	_
 2	dóib	do	_	_	_	_	_	_	_
 3	íarum	_	_	_	_	_	_	_	_
@@ -1156,16 +1154,16 @@ Tucad dóib íarum in mucc & cethorcha dam dia tarsnu cenmothá a mbiad archenae
 16	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = 54
-Mac Dathó; fessin ocond fert{h}igsecht.
+# text = Mac Dathó; fessin ocond fert{h}igsecht.
 1	Mac	_	PROPN	_	_	_	_	_	_
-2	Dathó	_	PROPN	_	_	_	_	_	Typo=Yes
+2	Dathó;	_	PROPN	_	_	_	_	_	Typo=Yes
 3	fessin	_	_	_	_	_	_	_	_
 4	ocond	oc	ADP	_	_	_	_	_	_
 5	fert{h}igsecht	ferthigsecht	NOUN	_	_	_	_	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = 55
-‘Mochen dúib’ olse.
+# text = ‘Mochen dúib’ olse.
 1	‘	‘	PUNCT	_	_	_	_	_	SpaceAfter=No
 2	Mochen	_	_	_	_	_	_	_	_
 3	dúib	do	ADP	_	_	_	_	_	SpaceAfter=No
@@ -1175,7 +1173,7 @@ Mac Dathó; fessin ocond fert{h}igsecht.
 5	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = 56
-‘Ni dabar samail riss sin; ataat aige ocus mucca la Laigniu, a testa de-sin mairfithir dúib i mbárach.’
+# text = ‘Ni dabar samail riss sin; ataat aige ocus mucca la Laigniu, a testa de-sin mairfithir dúib i mbárach.’
 1	‘	‘	PUNCT	_	_	_	_	_	SpaceAfter=No
 2	Ni	_	_	_	_	_	_	_	_
 3	dabar	di	ADP	_	_	_	_	_	_
@@ -1228,7 +1226,7 @@ Mac Dathó; fessin ocond fert{h}igsecht.
 # text = ‘Cindas rainn-fither in mucc, a Chonchobuir?’ ol Ailill.
 1	‘	‘	PUNCT	_	_	_	_	_	SpaceAfter=No
 2	Cindas	_	_	_	_	_	_	_	_
-3	rainnfither	_	VERB	_	_	_	_	_	Typo=Yes
+3	rainn-fither	_	VERB	_	_	_	_	_	_
 4	in	in	DET	_	_	_	_	_	_
 5	mucc	_	NOUN	_	_	_	_	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	_	_	_	_
@@ -1241,7 +1239,7 @@ Mac Dathó; fessin ocond fert{h}igsecht.
 13	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = 60
-# text = ‘Cía indas’ ol Bricne mac Carbaid anúas ane asind imdai, ‘bale i-taat láith gaile fer n-&Emacr;renn sund, acht a-rrann ar chomramaib?
+# text = ‘Cía indas’ ol Bricne mac Carbaid anúas ane asind imdai, ‘bale i-taat láith gaile fer n-Érenn sund, acht a-rrann ar chomramaib?
 1	‘	‘	PUNCT	_	_	_	_	_	SpaceAfter=No
 2	Cía	_	_	_	_	_	_	_	_
 3	indas	_	_	_	_	_	_	_	SpaceAfter=No
@@ -1263,7 +1261,7 @@ Mac Dathó; fessin ocond fert{h}igsecht.
 19	láith	_	_	_	_	_	_	_	_
 20	gaile	_	_	_	_	_	_	_	_
 21	fer	_	_	_	_	_	_	_	_
-22	n-Érenn	_	_	_	_	_	_	_	Typo=Yes
+22	n-Érenn	_	_	_	_	_	_	_	_
 23	sund	_	_	_	_	_	_	_	SpaceAfter=No
 24	acht	_	_	_	_	_	_	_	_
 25	a	_	_	_	_	_	_	_	_
@@ -1403,8 +1401,8 @@ Mac Dathó; fessin ocond fert{h}igsecht.
 7	Lugaid	_	PROPN	_	_	_	_	_	_
 8	mac	_	_	_	_	_	_	_	_
 9	Con	_	PROPN	_	_	_	_	_	_
-10	Ruí	_	PROPN	_	_	_	_	_	_
-11	‘	‘	PUNCT	_	_	_	_	_	SpaceAfter=No|Typo=Yes
+10	Ruí;,	_	PROPN	_	_	_	_	_	SpaceAfter=No|Typo=Yes
+11	‘	‘	PUNCT	_	_	_	_	_	SpaceAfter=No
 12	oldás	_	_	_	_	_	_	_	_
 13	Inloth	_	PROPN	_	_	_	_	_	_
 14	Mór	_	_	_	_	_	_	_	_
@@ -1601,8 +1599,8 @@ Mac Dathó; fessin ocond fert{h}igsecht.
 # text = Is bés dúib- si far n-Ultaib’ ol Cet, ‘cech mac gaibes gaisced acaib, is cucainni cenn a báiri.
 1	Is	_	_	_	_	_	_	_	_
 2	bés	_	_	_	_	_	_	_	_
-3	dúib	do	ADP	_	_	_	_	_	Typo=Yes
-4	-si	_	_	_	_	_	_	_	Typo=Yes
+3	dúib	do	ADP	_	_	_	_	_	SpaceAfter=No
+4	- si	_	_	_	_	_	_	_	Typo=Yes
 5	far	_	_	_	_	_	_	_	_
 6	n-Ultaib	_	PROPN	_	_	_	_	_	SpaceAfter=No
 7	’	’	PUNCT	_	_	_	_	_	_
@@ -2083,12 +2081,12 @@ Messe thall in súil n-aili asdo chinn.’
 11	.	_	_	_	_	_	_	_	_
 
 # sent_id = 111
-# text = ‘Inn é so Muinremor?’ ol Cet.
+# text = ‘Inn é so Muin- remor?’ ol Cet.
 1	‘	‘	PUNCT	_	_	_	_	_	SpaceAfter=No
 2	Inn	_	_	_	_	_	_	_	_
 3	é	_	_	_	_	_	_	_	_
 4	so	_	_	_	_	_	_	_	_
-5	Muinremor	_	PROPN	_	_	_	_	_	SpaceAfter=No
+5	Muin- remor	_	PROPN	_	_	_	_	_	SpaceAfter=No|Typo=Yes
 6	?	?	PUNCT	_	_	_	_	_	SpaceAfter=No
 7	’	’	PUNCT	_	_	_	_	_	_
 8	ol	_	VERB	_	_	_	_	_	_
@@ -2375,7 +2373,7 @@ Messe thall in súil n-aili asdo chinn.’
 # text = Tánacais-{s}iu daon.
 1	Tánacais	do-icc	VERB	_	_	_	_	_	SpaceAfter=No
 2	-{s}iu	_	_	_	_	_	_	_	_
-3	dano	dano	ADV	_	_	_	_	_	SpaceAfter=No|Typo=Yes
+3	daon	dano	ADV	_	_	_	_	_	SpaceAfter=No|Typo=Yes
 4	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = 132
@@ -2561,12 +2559,13 @@ Messe thall in súil n-aili asdo chinn.’
 # text = Fo-rácbais trian do muintire, ocus is {s}amlaid do- cúadaiss ocus gaí tríat brágit conna-étai focul fort chenn i córai; ar ro-loitt in gaí féthi do brágat.
 1	Fo-rácbais	fo-acaib	VERB	_	_	_	_	_	_
 2	trian	_	_	_	_	_	_	_	_
-3	do-cúadaiss	téit	VERB	_	_	_	_	_	Typo=Yes
+3	do	_	_	_	_	_	_	_	_
 4	muintire	_	_	_	_	_	_	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	_	_	_	_
 6	ocus	ocus	CCONJ	_	_	_	_	_	_
 7	is	_	_	_	_	_	_	_	_
 8	{s}amlaid	_	_	_	_	_	_	_	_
+9	do- cúadaiss	téit	VERB	_	_	_	_	_	Typo=Yes
 9	ocus	ocus	CCONJ	_	_	_	_	_	_
 10	gaí	_	NOUN	_	_	_	_	_	_
 11	tríat	tre	ADP	_	_	_	_	_	_
@@ -2630,8 +2629,8 @@ Messe thall in súil n-aili asdo chinn.’
 11	co	co	_	_	_	_	_	_	_
 12	-	-	PUNCT	_	_	_	_	_	_
 13	n-accatar	ad-cí	VERB	_	_	_	_	_	_
-14	Conall	_	PROPN	_	_	_	_	_	Typo=Yes
-15	Cernach	_	PROPN	_	_	_	_	_	Typo=Yes
+14	Conall	_	PROPN	_	_	_	_	_	SpaceAfter=No|Typo=Yes
+15	Cernach	_	PROPN	_	_	_	_	_	_
 16	is'	i	ADP	_	_	_	_	_	SpaceAfter=No
 17	tech	tech	NOUN	_	_	_	_	_	SpaceAfter=No
 18	.	.	PUNCT	_	_	_	_	_	_
@@ -2650,7 +2649,7 @@ Messe thall in súil n-aili asdo chinn.’
 # sent_id = 152
 # text = Ferait "Ulaid fáilti móir fri Conall.
 1	Ferait	feraid	VERB	_	_	_	_	_	_
-2	Ulaid	_	PROPN	_	_	_	_	_	Typo=Yes
+2	"Ulaid	_	PROPN	_	_	_	_	_	Typo=Yes
 3	fáilti	fáilte	NOUN	_	_	_	_	_	_
 4	móir	mór	ADJ	_	_	_	_	_	_
 5	fri	fri	ADP	_	_	_	_	_	_
@@ -2799,7 +2798,7 @@ Messe thall in súil n-aili asdo chinn.’
 9	Cet	_	PROPN	_	_	_	_	_	_
 10	mac	_	_	_	_	_	_	_	_
 11	Mágach	_	PROPN	_	_	_	_	_	SpaceAfter=No
-12	,	,	PUNCT	_	_	_	_	_	Typo=Yes
+12	,,	,	PUNCT	_	_	_	_	_	Typo=Yes
 13	magen	_	_	_	_	_	_	_	_
 14	curad	cur	NOUN	_	_	_	_	_	SpaceAfter=No
 15	cride	cride	NOUN	_	_	_	_	_	_
@@ -3010,8 +3009,8 @@ Messe thall in súil n-aili asdo chinn.’
 10	ferr	maith	ADJ	_	_	_	_	_	_
 11	do	do	ADP	_	_	_	_	_	_
 12	láech	_	NOUN	_	_	_	_	_	_
-13	indó	_	_	_	_	_	_	_	Typo=Yes
-14	-sa	_	_	_	_	_	_	_	Typo=Yes
+13	indó	_	_	_	_	_	_	_	SpaceAfter=No
+14	- sa	_	_	_	_	_	_	_	Typo=Yes
 15	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = 168
@@ -3051,7 +3050,7 @@ Messe thall in súil n-aili asdo chinn.’
 3	immurgu	_	_	_	_	_	_	_	SpaceAfter=No
 4	’	’	PUNCT	_	_	_	_	_	_
 5	ol	_	VERB	_	_	_	_	_	_
-6	Conall	_	PROPN	_	_	_	_	_	Typo=Yes
+6	Con- all	_	PROPN	_	_	_	_	_	Typo=Yes
 7	,	,	PUNCT	_	_	_	_	_	_
 8	oc	oc	ADP	_	_	_	_	_	_
 9	tabairt	_	NOUN	_	_	_	_	_	_
@@ -3196,7 +3195,7 @@ Messe thall in súil n-aili asdo chinn.’
 8	bair	_	NOUN	_	_	_	_	_	_
 9	co	co	_	_	_	_	_	_	SpaceAfter=No
 10	na	_	PART	_	_	_	_	_	SpaceAfter=No
-11	-	-	PUNCT	_	_	_	_	_	SpaceAfter=No|Typo=Yes
+11	- 	-	PUNCT	_	_	_	_	_	Typo=Yes
 12	farcaib	fo-ácaib	_	_	_	_	_	_	SpaceAfter=No
 13	bannai	bainne	NOUN	_	_	_	_	_	_
 14	de	_	ADP	_	_	_	_	_	_
@@ -3291,7 +3290,7 @@ Messe thall in súil n-aili asdo chinn.’
 3	in	in	DET	_	_	_	_	_	_
 4	sluag	_	NOUN	_	_	_	_	_	_
 5	forna	for	ADP	_	_	_	_	_	_
-6	doirsi{u}	_	_	_	_	_	_	_	Typo=Yes
+6	doir- si{u}	_	_	_	_	_	_	_	Typo=Yes
 7	co	co	PART	_	_	_	_	_	_
 8	-	-	PUNCT	_	_	_	_	_	_
 9	rralsat	fo-ceird	VERB	_	_	_	_	_	_
@@ -3320,7 +3319,7 @@ Messe thall in súil n-aili asdo chinn.’
 5	dóib	do	ADP	_	_	_	_	_	_
 6	daur	daur	NOUN	_	_	_	_	_	_
 7	mór	mór	ADJ	_	_	_	_	_	_
-8	ro-boí	_	_	_	_	_	_	_	Typo=Yes
+8	ro- boí	_	_	_	_	_	_	_	Typo=Yes
 9	for	for	ADP	_	_	_	_	_	_
 10	lár	lár	NOUN	_	_	_	_	_	_
 11	ind	in	DET	_	_	_	_	_	_
@@ -3469,12 +3468,12 @@ Messe thall in súil n-aili asdo chinn.’
 5	andess	andess	ADV	_	_	_	_	_	_
 6	for	for	ADP	_	_	_	_	_	_
 7	Beluch	_	_	_	_	_	_	_	_
-8	Sen	_	_	_	_	_	_	_	_
-9	-	-	PUNCT	_	_	_	_	_	SpaceAfter=No|Typo=Yes
+8	Sen	_	_	_	_	_	_	_	SpaceAfter=No
+9	- 	-	PUNCT	_	_	_	_	_	Typo=Yes
 10	Roírenn	_	_	_	_	_	_	_	_
 11	,	,	PUNCT	_	_	_	_	_	_
 12	for	for	ADP	_	_	_	_	_	_
-13	Áth	_	_	_	_	_	_	_	Typo=Yes
+13	Á;th	_	_	_	_	_	_	_	Typo=Yes
 14	Midbine	_	_	_	_	_	_	_	_
 15	i	i	ADP	_	_	_	_	_	_
 16	Maistin	_	_	_	_	_	_	_	SpaceAfter=No
@@ -3512,7 +3511,7 @@ Messe thall in súil n-aili asdo chinn.’
 1	Oc	oc	ADP	_	_	_	_	_	_
 2	Áth	_	_	_	_	_	_	_	_
 3	Chinn	_	_	_	_	_	_	_	_
-4	Chon	_	_	_	_	_	_	_	Typo=Yes
+4	Con	_	_	_	_	_	_	_	Typo=Yes
 5	i	_	_	_	_	_	_	_	_
 6	mBiliu	_	_	_	_	_	_	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	_	_	_	_
