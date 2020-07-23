@@ -1,0 +1,76 @@
+MWE: n-óenló, chétgabail
+if MWE has SpaceAfter=No, that goes on the MWE line rather than on the line for the second word of the MWE
+revisit hard and soft hyphens (carrying over, e.g. rainn-fither, Muin- remor, Cúsc-raid) (currently treat as Typo=Yes, perhaps CarryHyphen feat?)
+dia-tá = di a-tá
+a-rrann = a[NEUT ARTICLE] -[PUNCT] rrann[NOUN]
+asmo, asdo[/ast]  -- should be a single token?
+vs. armo which easily splits up as [ar mo]
+messe = me sse ?
+conna-ruc
+how to tag conjunct particles if they're the same as prepositions: do-léici: do = ADP or PART?
+treat copula as AUX, substantive verb as VERB?
+ceta-tudchad --> ceta - tudchad because ceta- is a prefix and tudchad is prototonic
+do-cúadaiss [lemma: téit]: is do a conjunct particle or PART OF THE VERB
+co -n with copula == "conid" : two tokens? (never found con id)
+scían inna láim, ina béolo : ina == inna ?  also, innar
+damdabach MWE?
+is preverb co actually the preposition co?
+comard = [com ard], com  prepositional prefix. Treat as MWE?
+soïmól
+names in general, use meanings or PROPN?
+muc, mac, macdacht or mucc, macc, maccdacht
+
+
+Is "ám" (as in "Cid ám") PART or ADV?
+
+LEMMATA:
+láech/lóech
+slúag/slóg (úa --> ó)
+úa/ó
+clóen/cláen
+im/imm
+Ériu/ériu
+resíu/riasíu (CCONJ)
+sí/si in "is {s}í ním-déni cutal" (eDIL has separate entries, Stifter does "si")
+menma (eDIL) / menmae (Stifter)
+
+FOREIGN:
+dixit
+
+POS:
+cid
+cóich (or coich)
+
+Mágach --> mágach
+sochraid (O.Ir. sochrud)
+
+fochen / fo chen,  POS?
+Is there a standard lemma for the variants of emphatic pronouns, e.g. 1sg -sa, -se, -sea (or the interchangeable array 3rd person pronouns?)
+       should I treat as lemma the entry to which Stifter points the other entries?
+-sium –> som
+
+cách and cach are distinct lemmas (both DET)
+
+tagging "cách" as DET (analogously to "cach"), with separate lemma
+Loga --> ?
+Réo --> réo (with accent?)
+cétnae ADJ ?
+gilla or gille
+aél in text, áel in eDIL
+
+aile DET? if used substantively ("another dog" --> DET)
+
+mani = ma + ni ?
+Lemmas: ma (unaccented), ní (accented)
+trá -- ADV (based on Eng "then/therefore", Gae "ansin")
+cenmothá ADP ?
+suide PRON
+na (eDIL "relative particle") PRON
+nad --> nád, SCONJ (eDIL 2nd entry)
+
+Ro-fetar	fo fitir (rather than ro-fitir?)
+
+indaí in "indaí-siu" -- ADP like "than"?
+intí/inní  POS
+dig --> deug or deog
+ría --> ría or ré
