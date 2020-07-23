@@ -111,7 +111,7 @@
 15	bruden	bruiden	NOUN	_	_	_	_	_	_
 16	Da	da	PROPN	_	_	_	_	_	SpaceAfter=No
 17	-	-	PUNCT	_	_	_	_	_	SpaceAfter=No
-18	Derg	PROPN	_	_	_	_	_	_	_
+18	Derg	_	PROPN	_	_	_	_	_	_
 19	i	i	ADP	_	_	_	_	_	_
 20	crích	crích	NOUN	_	_	_	_	_	_
 21	Cúalann	cúalu	PROPN	_	_	_	_	_	_
@@ -446,7 +446,7 @@
 28	’	’	PUNCT	_	_	_	_	_	_
 29	‘	‘	PUNCT	_	_	_	_	_	SpaceAfter=No
 30	cen	cen	ADP	_	_	_	_	_	SpaceAfter=No
-31	co	co	_	_	_	_	_	_	SpaceAfter=No
+31	co	co	PART	_	_	_	_	_	SpaceAfter=No
 32	-	-	PART	_	_	_	_	_	SpaceAfter=No
 33	labradar	_	VERB	_	_	_	_	_	_
 34	fri	fri	ADP	_	_	_	_	_	_
@@ -541,7 +541,7 @@
 6	]	]	PUNCT	_	_	_	_	_	_
 7	Cid	cid	PRON	PronType=Int	_	_	_	_	_
 8	fri	fri	ADP	_	_	_	_	_	_
-9	mnaí	ben	_	_	_	_	_	_	_
+9	mnaí	ben	NOUN	_	_	_	_	_	_
 10	at-bertha	as beir	VERB	_	_	_	_	_	SpaceAfter=No
 11	-so	so	PRON	_	_	_	_	_	SpaceAfter=No
 12	’	’	PUNCT	_	_	_	_	_	_
@@ -622,8 +622,8 @@
 9	derb	_	ADJ	_	_	_	_	_	_
 10	bid	_	_	_	_	_	_	_	_
 11	mogda	_	ADJ	_	_	_	_	_	_
-12	in	_	DET	_	_	_	_	_	_
-13	gním	_	NOUN	_	_	_	_	_	SpaceAfter=No
+12	in	in	DET	_	_	_	_	_	_
+13	gním	gním	NOUN	_	_	_	_	_	SpaceAfter=No
 14	’	’	PUNCT	_	_	_	_	_	_
 15	‘	‘	PUNCT	_	_	_	_	_	SpaceAfter=No
 16	ni	_	_	_	_	_	_	_	SpaceAfter=No
@@ -813,7 +813,7 @@
 6	se	se	PRON	_	_	_	_	_	_
 7	‘	‘	PUNCT	_	_	_	_	_	_
 8	i	i	ADP	_	_	_	_	_	_
-9	n-imsním	_	NOUN	_	_	_	_	_	_
+9	n-imsním	imsním	NOUN	_	_	_	_	_	_
 10	mór	mór	ADJ	_	_	_	_	_	_
 11	ocus	ocus	CCONJ	_	_	_	_	_	_
 12	cuntabairt	cuntabart	NOUN	_	_	_	_	_	_
@@ -881,7 +881,7 @@
 3	sin	sin	PART	_	_	_	_	_	_
 4	co	co	ADP	_	_	_	_	_	_
 5	techta	techt	NOUN	_	_	_	_	_	_
-6	Ulad	_	PROPN	_	_	_	_	_	SpaceAfter=No
+6	Ulad	ulaid	PROPN	_	_	_	_	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = 36
@@ -899,7 +899,7 @@
 11	in	in	DET	_	_	_	_	_	_
 12	coin	cú	NOUN	_	_	_	_	_	_
 13	do	do	ADP	_	_	_	_	_	_
-14	Chon- chobur	_	PROPN	_	_	_	_	_	SpaceAfter=No
+14	Chon- chobur	conchobar	PROPN	_	_	_	_	_	SpaceAfter=No
 15	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = 37
@@ -968,8 +968,8 @@
 11	i	i	ADP	_	_	_	_	_	_
 12	ndoruss	_	NOUN	_	_	_	_	_	_
 13	bruidne	bruiden	NOUN	_	_	_	_	_	_
-14	Meic	_	PROPN	_	_	_	_	_	_
-15	Dathó	_	PROPN	_	_	_	_	_	SpaceAfter=No
+14	Meic	mac	PROPN	_	_	_	_	_	_
+15	Dathó	dathó	PROPN	_	_	_	_	_	SpaceAfter=No
 16	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = 42
@@ -981,7 +981,7 @@
 5	a	a	_	_	_	_	_	_	_
 6	cenn	cenn	NOUN	_	_	_	_	_	_
 7	ocus	ocus	CCONJ	_	_	_	_	_	_
-8	feraid	_	VERB	_	_	_	_	_	_
+8	feraid	feraid	VERB	_	_	_	_	_	_
 9	fáilti	_	NOUN	_	_	_	_	_	_
 10	friu	fri	ADP	_	_	_	_	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	_	_	_	_
@@ -1033,7 +1033,7 @@ Lotar íarum uili isin mbruidin, leth in tige dano la Connachta ocus in leth ail
 13	ocus	ocus	CCONJ	_	_	_	_	_	_
 14	in	in	DET	_	_	_	_	_	_
 15	leth	_	NOUN	_	_	_	_	_	_
-16	aile	_	_	_	_	_	_	_	_
+16	aile	aile	_	_	_	_	_	_	_
 17	la	la	ADP	_	_	_	_	_	_
 18	Ulto	_	PROPN	_	_	_	_	_	SpaceAfter=No
 19	.	.	PUNCT	_	_	_	_	_	_
@@ -1043,7 +1043,7 @@ Lotar íarum uili isin mbruidin, leth in tige dano la Connachta ocus in leth ail
 1	Nibo	_	_	_	_	_	_	_	_
 2	bec	_	ADJ	_	_	_	_	_	_
 3	in	in	DET	_	_	_	_	_	_
-4	tech	_	NOUN	_	_	_	_	_	_
+4	tech	tech	NOUN	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_	_
 5	dano	dano	ADV	_	_	_	_	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	_	_	_	_
 7	secht	secht	NUM	_	_	_	_	_	_
@@ -1053,7 +1053,7 @@ Lotar íarum uili isin mbruidin, leth in tige dano la Connachta ocus in leth ail
 11	coíca	_	_	_	_	_	_	_	_
 12	imdad	imdae	NOUN	_	_	_	_	_	_
 13	itir	_	_	_	_	_	_	_	_
-14	cech	_	_	_	_	_	_	_	_
+14	cech	cach	DET	_	_	_	_	_	_
 15	dá	_	_	_	_	_	_	_	_
 16	dorus	_	NOUN	_	_	_	_	_	SpaceAfter=No
 17	.	.	PUNCT	_	_	_	_	_	_
@@ -1065,10 +1065,10 @@ Lotar íarum uili isin mbruidin, leth in tige dano la Connachta ocus in leth ail
 3	carat	_	_	_	_	_	_	_	_
 4	im	_	_	_	_	_	_	_	_
 5	fleid	fled	NOUN	_	_	_	_	_	_
-6	immurgu	_	_	_	_	_	_	_	_
+6	immurgu	immurgu	ADV	_	_	_	_	_	_
 7	bátar	_	_	_	_	_	_	_	_
 8	isin	i	ADP	_	_	_	_	_	_
-9	taig	_	NOUN	_	_	_	_	_	SpaceAfter=No
+9	taig	tech	NOUN	_	_	_	_	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = 48
@@ -1082,12 +1082,12 @@ Lotar íarum uili isin mbruidin, leth in tige dano la Connachta ocus in leth ail
 
 # sent_id = 49
 # text = Trí chét bliadan ría ngein Chríst ro-boí in cocad etorro.
-1	Trí	_	NUM	_	_	_	_	_	_
-2	chét	_	NUM	_	_	_	_	_	_
-3	bliadan	_	NOUN	_	_	_	_	_	_
-4	ría	_	ADP	_	_	_	_	_	_
-5	ngein	_	NOUN	_	_	_	_	_	_
-6	Chríst	_	PROPN	_	_	_	_	_	_
+1	Trí	trí	NUM	_	_	_	_	_	_
+2	chét	cét	NUM	_	_	_	_	_	_
+3	bliadan	bliadain	NOUN	_	_	_	_	_	_
+4	ría	ría	ADP	_	_	_	_	_	_
+5	ngein	gein	NOUN	_	_	_	_	_	_
+6	Chríst	Críst	PROPN	_	_	_	_	_	_
 7	ro-boí	_	_	_	_	_	_	_	_
 8	in	in	DET	_	_	_	_	_	_
 9	cocad	cocad	NOUN	_	_	_	_	_	_
@@ -1101,8 +1101,8 @@ Lotar íarum uili isin mbruidin, leth in tige dano la Connachta ocus in leth ail
 3	dano	dano	ADV	_	_	_	_	_	_
 4	in	in	DET	_	_	_	_	_	_
 5	mucc	muc	NOUN	_	_	_	_	_	_
-6	Meic	_	PROPN	_	_	_	_	_	_
-7	Dathó	_	PROPN	_	_	_	_	_	SpaceAfter=No
+6	Meic	mac	PROPN	_	_	_	_	_	_
+7	Dathó	dathó	PROPN	_	_	_	_	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = 51
@@ -1874,7 +1874,7 @@ Lotar íarum uili isin mbruidin, leth in tige dano la Connachta ocus in leth ail
 8	ol	_	VERB	_	_	_	_	_	_
 9	Cet	cet	PROPN	_	_	_	_	_	SpaceAfter=No
 10	,	,	PUNCT	_	_	_	_	_	_
-11	no	_	_	_	_	_	_	_	_
+11	no	no	_	_	_	_	_	_	_
 12	in	in	DET	_	_	_	_	_	_
 13	mucc	muc	NOUN	_	_	_	_	_	_
 14	do	do	ADP	_	_	_	_	_	_
@@ -1895,7 +1895,7 @@ Lotar íarum uili isin mbruidin, leth in tige dano la Connachta ocus in leth ail
 9	cétomus	_	_	_	_	_	_	_	_
 10	’	’	PUNCT	_	_	_	_	_	_
 11	ol	_	VERB	_	_	_	_	_	_
-12	láech	_	NOUN	_	_	_	_	_	_
+12	láech	láech	NOUN	_	_	_	_	_	_
 13	find	_	ADJ	_	_	_	_	_	_
 14	mór	mór	ADJ	_	_	_	_	_	_
 15	de	_	ADP	_	_	_	_	_	_
@@ -2567,7 +2567,7 @@ Messe thall in súil n-aili asdo chinn.’
 8	{s}amlaid	_	_	_	_	_	_	_	_
 9	do- cúadaiss	téit	VERB	_	_	_	_	_	Typo=Yes
 9	ocus	ocus	CCONJ	_	_	_	_	_	_
-10	gaí	_	NOUN	_	_	_	_	_	_
+10	gaí	gae	NOUN	_	_	_	_	_	_
 11	tríat	tre	ADP	_	_	_	_	_	_
 12	brágit	brágae	NOUN	_	_	_	_	_	_
 13	conna	_	_	_	_	_	_	_	SpaceAfter=No
@@ -2582,7 +2582,7 @@ Messe thall in súil n-aili asdo chinn.’
 22	ar	ar	_	_	_	_	_	_	_
 23	ro-loitt	loittid	VERB	_	_	_	_	_	_
 24	in	in	DET	_	_	_	_	_	_
-25	gaí	_	NOUN	_	_	_	_	_	_
+25	gaí	gae	NOUN	_	_	_	_	_	_
 26	féthi	féith	NOUN	_	_	_	_	_	_
 27	do	do	_	_	_	_	_	_	_
 28	brágat	brágae	NOUN	_	_	_	_	_	SpaceAfter=No
@@ -2637,7 +2637,7 @@ Messe thall in súil n-aili asdo chinn.’
 
 # sent_id = 151
 # text = Is and tarblaing for lár in tige.
-1	Is	_	_	_	_	_	_	_	_
+1	Is	is	AUX	_	_	_	_	_	_
 2	and	_	_	_	_	_	_	_	_
 3	tarblaing	do-airling	VERB	_	_	_	_	_	_
 4	for	for	ADP	_	_	_	_	_	_
@@ -2649,7 +2649,7 @@ Messe thall in súil n-aili asdo chinn.’
 # sent_id = 152
 # text = Ferait "Ulaid fáilti móir fri Conall.
 1	Ferait	feraid	VERB	_	_	_	_	_	_
-2	"Ulaid	_	PROPN	_	_	_	_	_	Typo=Yes
+2	"Ulaid	ulaid	PROPN	_	_	_	_	_	Typo=Yes
 3	fáilti	fáilte	NOUN	_	_	_	_	_	_
 4	móir	mór	ADJ	_	_	_	_	_	_
 5	fri	fri	ADP	_	_	_	_	_	_
@@ -2685,7 +2685,7 @@ Messe thall in súil n-aili asdo chinn.’
 8	thairiuc	tairecc	NOUN	_	_	_	_	_	SpaceAfter=No
 9	’	’	PUNCT	_	_	_	_	_	_
 10	ol	_	VERB	_	_	_	_	_	_
-11	Conall	_	PROPN	_	_	_	_	_	SpaceAfter=No
+11	Conall	conall	PROPN	_	_	_	_	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = 155
