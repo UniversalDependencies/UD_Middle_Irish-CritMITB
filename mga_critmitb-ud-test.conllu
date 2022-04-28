@@ -9,7 +9,7 @@
 6	,	,	PUNCT	_	_	10	punct	_	_
 7	Mac	mac	PROPN	_	_	8	compound	_	_
 8	Dathó	dathó	PROPN	_	_	10	nsubj	_	_
-9	a	a	PRON	_	_	10 nmod	_	_
+9	a	a	PRON	_	_	10  nmod  _	_
 10	ainm	ainm	NOUN	_	_	2	parataxis	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	2	punct	_	_
 
