@@ -19,7 +19,7 @@ From the CELT corpus ([https://celt.ucc.ie/](https://celt.ucc.ie/)).
 
 # Changelog
 
-* 2020-11-15 v2.7
+* 2022-05-15 v2.10
   * Initial release in Universal Dependencies.
 
 
