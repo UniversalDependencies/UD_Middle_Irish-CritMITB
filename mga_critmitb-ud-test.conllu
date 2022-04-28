@@ -1,19 +1,21 @@
 # sent_id = 1
 # text = Boí rí amrae for Laignib, Mac Dathó a ainm.
-1	Boí	attá	VERB	_	_	_	_	_	_
-2	rí	rí	NOUN	_	_	_	_	_	_
-3	amrae	amrae	ADJ	_	_	_	_	_	_
-4	for	for	ADP	_	_	_	_	_	_
-5	Laignib	laigin	PROPN	_	_	_	_	_	SpaceAfter=No
-6	,	,	PUNCT	_	_	_	_	_	_
-7	Mac	mac	PROPN	_	_	_	_	_	_
-8	Dathó	dathó	PROPN	_	_	_	_	_	_
-9	a	a	PRON	_	_	_	_	_	_
-10	ainm	ainmm	NOUN	_	_	_	_	_	_
-11	.	.	PUNCT	_	_	_	_	_	_
+# translation = There was a wonderful king over the Leinstermen [Leinster], Mac Dathó was his name.
+1	Boí	attá	AUX	_	_	2	cop	_	_
+2	rí	rí	NOUN	_	_	0	root	_	_
+3	amrae	amrae	ADJ	_	_	2	amod	_	_
+4	for	for	ADP	_	_	5	case	_	_
+5	Laignib	laigin	PROPN	_	_	2	obl	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	10	punct	_	_
+7	Mac	mac	PROPN	_	_	8	compound	_	_
+8	Dathó	dathó	PROPN	_	_	10	nsubj	_	_
+9	a	a	PRON	_	_	10  nmod	_	_
+10	ainm	ainm	NOUN	_	_	2	parataxis	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 2
 # text = Boí cú occo.
+# translation = He had a dog.
 1	Boí	attá	VERB	_	_	_	_	_	_
 2	cú	cú	NOUN	_	_	_	_	_	_
 3	occo	oc	ADP	_	_	_	_	_	SpaceAfter=No
@@ -21,15 +23,17 @@
 
 # sent_id = 3
 # text = Im-díched in cú Laigniu huili.
-1	Im-díched	imm-dích	VERB	_	_	_	_	_	_
-2	in	in	DET	_	_	_	_	_	_
-3	cú	cú	NOUN	_	_	_	_	_	_
-4	Laigniu	laigin	PROPN	_	_	_	_	_	_
-5	huili	uile	DET	_	_	_	_	_	SpaceAfter=No
-6	.	.	PUNCT	_	_	_	_	_	_
+# translation = The dog protected all Leinster.
+1	Im-díched	imm-dích	VERB	_	_	0	root	_	_
+2	in	in	DET	_	_	3	det	_	_
+3	cú	cú	NOUN	_	_	1	nsubj	_	_
+4	Laigniu	laigin	PROPN	_	_	1	obj	_	_
+5	huili	uile	DET	_	_	4	det	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 4
 # text = Ailbe ainm in chon, ocus ba lán Hériu dia airdircus in chon.
+# translation = Ailbe was the name of the dog, and Ireland was full of the renown of the dog. 
 1	Ailbe	ailbe	PROPN	_	_	_	_	_	_
 2	ainm	ainmm	NOUN	_	_	_	_	_	_
 3	in	in	DET	_	_	_	_	_	_
@@ -48,6 +52,7 @@
 
 # sent_id = 5
 # text = Do- eth ó Ailill ocus ó Meidb do chungid in chon.
+# translation = [People] came from Ailill and from Medb to seek the dog.
 1	Do- eth	do-tét	VERB	_	_	_	_	_	Typo=Yes
 2	ó	ó	ADP	_	_	_	_	_	_
 3	Ailill	ailill	PROPN	_	_	_	_	_	_
@@ -62,6 +67,7 @@
 
 # sent_id = 6
 # text = Immalle dano táncatar ocus techta Ulad ocus Conchobair do chungid in chon chétna.
+# translation = Then at the same time, messengers of Ulaid and Conchobair also came to seek the same dog.
 1	Immalle	immalle	ADV	_	_	_	_	_	_
 2	dano	dano	ADV	_	_	_	_	_	_
 3	táncatar	do icc	VERB	_	_	_	_	_	_
@@ -79,6 +85,7 @@
 
 # sent_id = 7
 # text = Ro-ferad fáilte friu huili, ocus ructha cuci-sium isin mbruidin.
+# translation = A welcome was granted to them all, and they were brought to him in the banquet hall.
 1	Ro-ferad	feraid	VERB	_	_	_	_	_	_
 2	fáilte	fáilte	NOUN	_	_	_	_	_	_
 3	friu	fri	ADP	_	_	_	_	_	_
