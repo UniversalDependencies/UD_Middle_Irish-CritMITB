@@ -25,7 +25,7 @@ From the CELT corpus ([https://celt.ucc.ie/](https://celt.ucc.ie/)).
 
 <pre>
 === Machine-readable metadata (DO NOT REMOVE!) ================================
-Data available since: UD v2.7
+Data available since: UD v2.10
 License: CC BY-SA 4.0
 Includes text: yes
 Genre: fiction
