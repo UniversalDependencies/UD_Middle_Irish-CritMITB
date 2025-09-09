@@ -28,6 +28,7 @@ From the CELT corpus ([https://celt.ucc.ie/](https://celt.ucc.ie/)).
 Data available since: UD v2.10
 License: CC BY-SA 4.0
 Includes text: yes
+Parallel: no
 Genre: fiction
 Lemmas: converted from manual
 UPOS: converted from manual
