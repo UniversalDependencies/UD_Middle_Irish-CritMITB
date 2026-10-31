@@ -527,7 +527,7 @@
 25	ní	ní	PART	_	_	_	_	_	_
 26	maith	maith	ADV	_	_	_	_	_	_
 27	con-celar	con ceil	VERB	_	_	_	_	_	SpaceAfter=No
-28	, 	,	PUNCT	_	_	_	_	_	Typo=Yes
+28	,	,	PUNCT	_	_	_	_	_	Typo=Yes
 29	’	’	PUNCT	_	_	_	_	_	_
 30	‘	‘	PUNCT	_	_	_	_	_	SpaceAfter=No
 31	maín	maín	NOUN	_	_	_	_	_	_
@@ -761,7 +761,7 @@
 4	súas	_	_	_	_	_	_	_	_
 5	ocus	ocus	CCONJ	_	_	_	_	_	_
 6	no	no	PART	_	_	_	_	_	SpaceAfter=No
-6	- 	-	PUNCT	_	_	_	_	_	Typo=Yes
+6	-	-	PUNCT	_	_	_	_	_	Typo=Yes
 7	mbertaigedar	_	VERB	_	_	_	_	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	_	_	_	_
 
@@ -938,7 +938,7 @@
 # sent_id = 39
 # text = I n-óenló immurgu ro-dálsat-som etir aníar ocus anair.
 1	I	i	ADP	_	_	_	_	_	_
-2-3 n-óenló	_	_	_	_	_	_	_	_
+2-3	n-óenló	_	_	_	_	_	_	_	_
 2	n-óen	_	NUM	_	_	_	_	_	_
 3	ló	_	NOUN	_	_	_	_	_	_
 4	immurgu	_	_	_	_	_	_	_	_
@@ -966,7 +966,7 @@
 3	cóiced	_	_	_	_	_	_	_	_
 4	Hérenn	_	_	_	_	_	_	_	_
 5	i	i	ADP	_	_	_	_	_	_
-6-7 n-óenló	_	_	_	_	_	_	_	_
+6-7	n-óenló	_	_	_	_	_	_	_	_
 6	n-óen	_	NUM	_	_	_	_	_	_
 7	ló	_	NOUN	_	_	_	_	_	_
 8	co	co	_	_	_	_	_	_	SpaceAfter=No
@@ -3202,7 +3202,7 @@
 8	bair	_	NOUN	_	_	_	_	_	_
 9	co	co	_	_	_	_	_	_	SpaceAfter=No
 10	na	_	PART	_	_	_	_	_	SpaceAfter=No
-11	- 	-	PUNCT	_	_	_	_	_	Typo=Yes
+11	-	-	PUNCT	_	_	_	_	_	Typo=Yes
 12	farcaib	fo-ácaib	_	_	_	_	_	_	SpaceAfter=No
 13	bannai	bainne	NOUN	_	_	_	_	_	_
 14	de	_	ADP	_	_	_	_	_	_
@@ -3476,7 +3476,7 @@
 6	for	for	ADP	_	_	_	_	_	_
 7	Beluch	_	PROPN	_	_	_	_	_	_
 8	Sen	_	PROPN	_	_	_	_	_	SpaceAfter=No
-9	- 	-	PUNCT	_	_	_	_	_	Typo=Yes
+9	-	-	PUNCT	_	_	_	_	_	Typo=Yes
 10	Roírenn	_	_	_	_	_	_	_	_
 11	,	,	PUNCT	_	_	_	_	_	_
 12	for	for	ADP	_	_	_	_	_	_
