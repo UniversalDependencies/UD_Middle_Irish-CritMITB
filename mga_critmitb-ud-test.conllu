@@ -1,7 +1,7 @@
 # sent_id = 1
 # text = Boí rí amrae for Laignib, Mac Dathó a ainm.
 # translation = There was a wonderful king over the Leinstermen [Leinster], Mac Dathó was his name.
-1	Boí	attá	AUX	_	_	2	cop	_	_
+1	Boí	is	AUX	_	_	2	cop	_	_
 2	rí	rí	NOUN	_	_	0	root	_	_
 3	amrae	amrae	ADJ	_	_	2	amod	_	_
 4	for	for	ADP	_	_	5	case	_	_
