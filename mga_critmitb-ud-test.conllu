@@ -33,7 +33,7 @@
 
 # sent_id = 4
 # text = Ailbe ainm in chon, ocus ba lán Hériu dia airdircus in chon.
-# translation = Ailbe was the name of the dog, and Ireland was full of the renown of the dog. 
+# translation = Ailbe was the name of the dog, and Ireland was full of the renown of the dog.
 1	Ailbe	ailbe	PROPN	_	_	_	_	_	_
 2	ainm	ainmm	NOUN	_	_	_	_	_	_
 3	in	in	DET	_	_	_	_	_	_
@@ -1024,7 +1024,7 @@
 5	’	’	PUNCT	_	_	_	_	_	_
 
 # sent_id = 45
-Lotar íarum uili isin mbruidin, leth in tige dano la Connachta ocus in leth aile la Ulto.
+# text = Lotar íarum uili isin mbruidin, leth in tige dano la Connachta ocus in leth aile la Ulto.
 1	Lotar	_	VERB	_	_	_	_	_	_
 2	íarum	_	_	_	_	_	_	_	_
 3	uili	uile	DET	_	_	_	_	_	_
@@ -2042,7 +2042,7 @@ Lotar íarum uili isin mbruidin, leth in tige dano la Connachta ocus in leth ail
 7	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = 107
-Messe thall in súil n-aili asdo chinn.’
+# text = Messe thall in súil n-aili asdo chinn.’
 1	Me	me	PRON	_	_	_	_	_	SpaceAfter=No
 2	sse	se	_	_	_	_	_	_	_
 3	thall	do-alla	VERB	_	_	_	_	_	_
@@ -3570,7 +3570,7 @@ Messe thall in súil n-aili asdo chinn.’
 30	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = 194
-‘Emde, a Chonchobair!’ olse.
+# text = ‘Emde, a Chonchobair!’ olse.
 1	‘	‘	PUNCT	_	_	_	_	_	SpaceAfter=No
 2	Emde	as midethar	VERB	_	_	_	_	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	_	_	_	_
@@ -3583,7 +3583,7 @@ Messe thall in súil n-aili asdo chinn.’
 10	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = 195
-‘T'ógríar!’ ol Conchobar.
+# text = ‘T'ógríar!’ ol Conchobar.
 1	‘	‘	PUNCT	_	_	_	_	_	SpaceAfter=No
 2	T'	do	PRON	_	_	_	_	_	SpaceAfter=No
 3	óg	óg	ADJ	_	_	_	_	_	SpaceAfter=No
@@ -3595,7 +3595,7 @@ Messe thall in súil n-aili asdo chinn.’
 9	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = 196
-‘Niba mór’, ol Fer Loga, ‘.i. mo brith latt co Emain Macha ocus mná óentama Ulad ocus a n-ingena macdacht do gabáil chepóce cecha nóna immum co-n-érbrat: Fer Loga mo lennán-sa.’
+# text = ‘Niba mór’, ol Fer Loga, ‘.i. mo brith latt co Emain Macha ocus mná óentama Ulad ocus a n-ingena macdacht do gabáil chepóce cecha nóna immum co-n-érbrat: Fer Loga mo lennán-sa.’
 1	‘	‘	PUNCT	_	_	_	_	_	SpaceAfter=No
 2	Niba	is	AUX	_	_	_	_	_	_
 3	mór	mór	ADJ	_	_	_	_	_	SpaceAfter=No
@@ -3687,3 +3687,4 @@ Messe thall in súil n-aili asdo chinn.’
 5	in	in	DET	_	_	_	_	_	_
 6	sin	sin	_	_	_	_	_	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	_	_	_	_
+
